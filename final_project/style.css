@@ -1,0 +1,44 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+h1{
+  text-align: center
+}
+
+.radio{
+  float: left;
+  margin-left: 30px;
+}
+
+main{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
+
+#invitation{
+  background-image: url('https://i.pinimg.com/originals/37/9a/b0/379ab02a9fa1119ad55fb319971f622d.jpg') ;
+  width: 500px;
+  height: 550px;
+  background-size: cover;
+  text-align: center;
+}
+
+
+#initials{
+  margin-top: 130px;
+  margin-bottom: 50px;
+}
+
+#surname{
+  margin-top: 30px;
+  margin-bottom: 50px;  
+}
+
+/*
+background-image: url('https://png.pngtree.com/thumb_back/fw800/back_pic/04/50/42/90585cd249d15db.jpg');
+background-image: url('https://i.pinimg.com/originals/a2/78/03/a27803ee5561dc3540320953c56c806f.png');
+*/
